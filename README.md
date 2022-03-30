@@ -6,7 +6,7 @@
 
 > ( ❤ ) ・ Kyara uma simples bot 100% brasileira feita para seu servidor.</p>
 
-> ( 🔗 ) ・ Adicione-me a seu servidor clicando [aqui](https://pages.github.com/)
+> ( 🔗 ) ・ Adicione-me a seu servidor clicando [aqui](https://discord.com/oauth2/authorize?client_id=957379333742280715&scope=bot+applications.commands&permissions=279106039039)
 
 ## TRADUÇÕES :
 > ( 🌏 ) ・ Contribua na tradução da kyara clicando [aqui](https://pagas.github.com)
