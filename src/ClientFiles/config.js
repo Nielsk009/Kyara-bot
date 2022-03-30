@@ -6,7 +6,7 @@ module.exports = {
   database: {
     type: "default",
     tables: ["Kyarabot"],
-    path: "./database/",
+    path: "./src/database/",
     promisify: false
   },
   autoUpdate: true,

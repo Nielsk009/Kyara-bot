@@ -20,7 +20,3 @@
 > ( 📖 ) ・ Antes de fazer mudanças ou fork no projeto porfavor leia a [licensa](https://github.com/Nielsk009/Kyara-bot/blob/main/LICENSE) do projeto.
 
 <br>
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nielsk009/Kyara-bot/)
-[![Support Server](https://img.shields.io/discord/958753556582776842.svg?color=ca4246&label=café's%20kyara&logo=discord&style=flat-square)](https://discord.gg/jTRKBWEtGU)
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/Built-with-love.svg)](https://GitHub.com/Nielsk/Kyara-bot)
