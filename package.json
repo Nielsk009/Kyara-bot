@@ -1,0 +1,26 @@
+{
+  "name": "Kyara-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nielsk009/Kyara-bot.git"
+  },
+  "keywords": [],
+  "author": "Nielsk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nielsk009/Kyara-bot/issues"
+  },
+  "homepage": "https://github.com/Nielsk009/Kyara-bot#readme",
+  "devDependencies": {
+    "node": "^16.14.2"
+  },
+  "dependencies": {
+    "aoi.js": "^5.1.2"
+  }
+}
