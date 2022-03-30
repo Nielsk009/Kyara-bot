@@ -1,6 +1,7 @@
 module.exports = {
   name: "AtualizarArquivos",
-  code: `$UpdateCommands Pronto, a minha pasta de comandos já foi atualizada.
-$onlyForIds[$botOwnerId;Oops, apenas meus desenvolvedores podem utilizar esse comando.]`,
+  code: `$UpdateCommands
+> ( <:Megaphone:957666374673629194> ) **・** Pronto, todos os meus arquivos (comandos) foram atualizados.
+$onlyForIds[$botOwnerID;> ( <:Megaphone:957666374673629194> ) **・** Oops, parece que você não é um e meus desenvolvedores, esse comando e apenas para meus desenvolvedores.]`,
   nonPrefixed: true
 }
