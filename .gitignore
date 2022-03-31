@@ -3,4 +3,5 @@ database/
 .env
 .replit
 package-lock.json
+package.json
 readme.md

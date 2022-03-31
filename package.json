@@ -1,7 +1,7 @@
 {
-  "name": "Kyara-bot",
+  "name": "kyara-bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "Uma simples bot do discord 100% br",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,17 +10,19 @@
     "type": "git",
     "url": "git+https://github.com/Nielsk009/Kyara-bot.git"
   },
-  "keywords": [],
   "author": "Nielsk",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "bugs": {
     "url": "https://github.com/Nielsk009/Kyara-bot/issues"
   },
   "homepage": "https://github.com/Nielsk009/Kyara-bot#readme",
+  "keywords": [],
   "devDependencies": {
     "node": "^16.14.2"
   },
   "dependencies": {
-    "aoi.js": "^5.1.2"
+    "aoi.js": "^5.1.2",
+    "aoi.js-plugins": "^1.6.2",
+    "express": "^4.17.3"
   }
 }

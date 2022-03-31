@@ -1,18 +1,18 @@
-// Puxar a biblioteca do aoijs
-const kyarabot = require('aoi.js'); 
+// Importando a biblioteca aoijs
+const kyara = require('aoi.js')
 
-const config = require('./src/ClientFiles/config.js'); 
+// Imprtando as configurações do client
+const config = require('./src/config.js');
 
-// Fazer o bot ligar
-const bot = new kyarabot.Bot(config.Bot); 
+// Construindo a estrutura do client(Kyara)
+const client = new kyara.Bot(config.Client)
 
-// Requerindo todos os arquivos do bot
-require("./src/ClientFiles/Callbacks")(bot)
-require("./src/ClientFiles/Variaveis")(bot) 
+// Requerindo os arquivos do client
+require("./src/Callbacks")(client)
+require("./src/Variaveis")(client)
+require("./src/Emojis")(client)
 
-//Carregar todos os comandos da kyara
-const loader = new kyarabot.LoadCommands(bot)
-loader.load(bot.cmd, "./src/comandos/") 
-
-// Colocar cor no console.
-loader.setColors(config.Cores);
+// Base Handler do client
+const load = new kyara.LoadCommands(client)
+load.load(client.cmd, "./comandos/")
+load.setColors(load.themes.default)
